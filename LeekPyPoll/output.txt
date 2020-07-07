@@ -1,0 +1,7 @@
+PyPoll Results
+There were 3521001 votes cast.
+Khan got 0.63 percent of the vote (2218231 votes)
+Correy got 0.2 percent of the vote (704200 votes)
+Li got 0.14 percent of the vote (492940 votes)
+O'Tooley got 0.03 percent of the vote (105630 votes)
+The winner is Khan.

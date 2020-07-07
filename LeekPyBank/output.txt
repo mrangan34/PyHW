@@ -1,0 +1,6 @@
+PyBank Results
+There are 86 months in this data set.
+The total profit was 38382578 dollars.
+The average month-to-month change was -2315.1176470588234 dollars.
+The greatest increase in profits was  1926159 dollars.(Feb-2012)
+The greatest decrease in profits was  -2196167 dollars.(Sep-2013)
